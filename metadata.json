@@ -1,0 +1,6 @@
+{
+  "name": "Piano Dieta & Ricette Antispreco",
+  "description": "App per caricare il PDF del piano alimentare, generare ricette quotidiane su misura per tempo e impegno, e creare piatti veloci con gli ingredienti in frigo e dispensa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
